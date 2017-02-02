@@ -3,7 +3,7 @@ Machine setup
 	* install zsh
  	* oh-my-zsh
   		* theme - bira
-  		* plugins= git, osx, rake, rvm, ruby, zsh-completions, zsh-autosuggestions
+  		* add this line to zshrc `plugins=(git osx rake rvm ruby zsh-completions zsh-autosuggestions)`
  	* preferences > profiles > color presets > select honukai
  		* https://github.com/oskarkrawczyk/honukai-iterm-zsh
 	* preferences > Text > Change font
